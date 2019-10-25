@@ -1,0 +1,14 @@
+open file manager
+open browser
+close browser
+close file manager
+hi cathy
+open justperform
+go to initiate
+go to modelling
+go to deploy
+go to process discovery
+open initiate
+open modelling
+open deploy
+open process discovery
